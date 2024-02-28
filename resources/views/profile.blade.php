@@ -10,7 +10,7 @@
 
 <body>
     <h2>Profile Halaman</h2>
-    <a href="#"> Contoh Branch deni</a>
+    <a href="#"> Contoh Branch deni nama</a>
 </body>
 
 </html>
